@@ -1,1 +1,3 @@
 hoje o gustavo faltou.
+estudando comandos em git
+no vscode
